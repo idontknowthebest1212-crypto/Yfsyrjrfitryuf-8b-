@@ -1,0 +1,17 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "clyde.unlisted-explorer",
+  "name": "Unlisted Explorer",
+  "version": "v0.1.0",
+  "developer": "Clyde",
+  "description": "A starting point for exploring publicly accessible Geometry Dash creator and level data.",
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  }
+}
